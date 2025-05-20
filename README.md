@@ -23,9 +23,9 @@ This repository contains coursework, notes, and assignments from various Math cl
 ## 🗂 Structure
 
 Each course folder may contain:
-- `README.md`: Overview or syllabus
 - `Notes/`: Handwritten or typed lecture notes
 - `Homework/`: Homeworks
+- `Labs/`: Labs
 - `Project/`: Larger projects, if any
 
 ---
